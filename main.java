@@ -31,7 +31,16 @@ public class Main {
       System.out.format("root1 = %.2f+%.2fi", real, imaginary);
       System.out.format("\nroot2 = %.2f-%.2fi", real, imaginary);
       System.out.format("\nroot2 = %.2f-%.2fi", real, imaginary);
+      System.out.format("\nroot2 = %.2f-%.2fi", real, imaginary);
+      System.out.format("\nroot2 = %.2f-%.2fi", real, imaginary);
 
     }
+    // ctrl+shift + up/down arrow
+    /* double root3, root4;
+    double root3, root4;
+    double root3, root4;
+    double root3, root4;
+    double root3, root4; */
+
   }
 }
